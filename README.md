@@ -9,14 +9,14 @@
 
 ### Home Page:
 <p align="center">
- <img src="https://drive.google.com/file/d/1J6RCnaPjyTbKveSC6_p9_UH30sp8_uh8/view?usp=drivesdk" width="800" height="auto" alt="Your Image Description">
-
+  <img src="https://drive.google.com/uc?export=view&id=1J6RCnaPjyTbKveSC6_p9_UH30sp8_uh8" width="800" alt="Home Page">
 </p>
 
 ### Mushroom Classification Result:
 <p align="center">
- <img src="https://drive.google.com/file/d/1J8czBIhMOhXhBVp3QK9g7TNq3lNXgCg6/view?usp=drivesdk" width="800" height="auto" alt="Classification Results Display">
+  <img src="https://drive.google.com/uc?export=view&id=1J8czBIhMOhXhBVp3QK9g7TNq3lNXgCg6" width="800" alt="Classification Results Display">
 </p>
+
 
 ## **Installation and Setup**
 
